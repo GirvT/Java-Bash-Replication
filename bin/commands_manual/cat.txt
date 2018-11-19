@@ -1,0 +1,13 @@
+NAME:
+	cat
+
+SYNTAX:
+	cat FILE1 [FILE2 ...]
+
+DESCRIPTION:
+	Concatenate and display the contents of FILE1 and optional files [FILE2 ...] to standard output.
+	The contents of each file are separated by three line breaks.
+
+EXAMPLES:
+	cat cs.txt - displays the contents of file cs.txt onto standard output
+	cat cs.txt mh.txt - displays the contents of files cs.txt and mh.txt onto standard output

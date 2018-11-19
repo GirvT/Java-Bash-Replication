@@ -1,0 +1,16 @@
+Class name: Command
+Parent class: None
+Subclasses: Cat, Cd, Echo, Exit, Ls, Mkdir, Mv, Pwd, Cp, Pushd
+			Popd, History
+
+Responsibilities:
+* Parent class of all commands, required to set the details of
+	classes for command name and arguments
+* Requires subclasses to define an details of:
+	-executing
+	-path to respective command
+	
+
+Collaborators:
+* Parsing
+* JShell

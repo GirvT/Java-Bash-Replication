@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Upload CRCard deigns files
+
+What do I plan to work in the next three days?
+	- Update CRCard design files and classes due to changes in the file system, fix echo's commands
+
+Am I Blocked on anything?
+	- Create File in FileSystem needed a few times

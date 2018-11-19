@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- Addressed any Issues in FileSystem
+	- Accomodated other member's commands for filesystem
+	- Demo-ed with TA
+
+What do I plan to work in the next three days?
+    - Implement Singleton Design Principles
+    - Create Unit tests and error classes
+    - Check all the commenting
+
+
+Am I blocked on anything?
+    - nope

@@ -1,0 +1,56 @@
+//Sprint 4 Backlog.  
+November 13th to November 20th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+
+
+
+Specific tasks to be accomplished:
+
+a	Adjust for Parsing Requirements & Commands:
+a-1.  Adjust Command: "cd"
+a-2.  Make Command: "tree"
+a-3.  Adjust Command: "echo"
+a-4.  Extend Command: "man"
+a-5.  Change Parsing return value and interaction
+a-6.  Create FileEditor Class
+a-7.  Make Command: "get"
+
+b   Create Unit Tests:
+b-1.  Edit Unit Tests for Command: "cd"
+b-2.  Edit Unit Tests for Command: "ls"
+b-3.  Edit Unit Tests for Command: "mkdir"
+b-4.  Unit Tests for Command: "tree"
+b-5.  Unit Tests for Command: "mv"
+b-6.  Unit Tests for Command: "cp"
+b-7.  Unit Tests for Command: "get"
+b-8.  Edit Unit Tests for Command: "cat"
+b-9.  Edit Unit Tests for Command: "history"
+b-10.  Edit Unit Tests for Command: "echo"
+b-11. Unit Tests for Command: "popd"
+b-12. Unit Tests for Command: "pushd"
+b-13. Unit Tests for Command: "man"
+b-14. Unit Tests for FileSystem handling
+b-15. Unit Tests for Parsing handling
+
+c	Documentation & Other Changes
+c-1. Change and Extend CRC cards
+c-2. Generics Implementation
+
+
+These tasks are assigned as follows:
+
+User: Girvan
+Tasks: a-3, a-7, b-7, b-10, c-1
+
+User: Conroy
+Tasks: a-1, a-2, b-1, b-2, b-3, b-4, b-5, b-6, c-2, b-14
+
+User: Manish
+Tasks: a-4, b-11, b-12, b-13, c-1
+
+User: Zhi Hua
+Tasks: a-5, a-6, b-8, b-9, b-15
+

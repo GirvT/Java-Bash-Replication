@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- Created class for FileSystem
+	- Incorporated the File class into the package, removed inode package
+
+What do I plan to work in the next three days?
+    - Build class for Mkdir
+    - Build class for cd
+    - Build class for Ls
+    - Elaborate the FileSystem to accomodate for other filesystem methods
+
+Am I blocked on anything?
+    - If we could make appending and outputing to files more modular

@@ -1,0 +1,13 @@
+a) What did I work on in the last three days? 
+
+>	Changed the passing of FileSystem from the execute method to the constructor
+
+
+b) What do I plan to work in the next three days?
+
+>	Have Cat catch errors
+>	See what I need to change after the demo
+
+c) Am I blocked on anything?  
+
+>	Everyone seems to be in the same chapter, but not on the same page. I need to meet with the others to work out the details

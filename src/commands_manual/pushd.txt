@@ -1,0 +1,13 @@
+NAME:
+	pushd
+
+SYTNAX:
+	pushd DIR
+
+DESCRIPTION:
+	Saves the current working directory by putting it into a directory stack so that it can be accessed later (popd command). Sets DIR as the new working directory where DIR might be relative to current directory or a full path.
+	The directory stack is consitent with the behaviour of LIFO stack and stack itself is dynamic.
+
+EXAMPLE:
+	pushd cs - puts the current working directory in the directory stack and sets cs as the current working directory
+

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Error handling on edge cases.
+
+What do I plan to work in the next three days?
+	- Error handling if further issues arise
+
+Am I Blocked on anything?
+	- N/A

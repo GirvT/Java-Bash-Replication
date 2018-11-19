@@ -1,0 +1,11 @@
+Class name: Cat
+Parent class:Commands
+Subclasses: None
+
+Responsibilities:
+* Passes the contents of our current file to the display
+
+Collaborators:
+* Display
+* File
+* Error

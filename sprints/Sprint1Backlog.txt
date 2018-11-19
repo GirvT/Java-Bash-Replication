@@ -1,0 +1,32 @@
+//Sprint # Backlog.  
+October 18 to October 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I should be able to get help for any default command			
+b) As a user, I can use any length of whitespace to represent space between commands/arguments and any number of spaces before the first command
+
+Specific tasks to be accomplished:
+a-1. (JShell) Create a base class for both files and directories;
+a-2. (JShell) Have the shell continually prompt the user for input,
+a-3. (JShell) Create all the classes(empty), and have parsing call the appropriate class (Make sure to accoutn for the "man" command too)
+a-4. (JShell) Make a description for each of our commands (man)
+a-5. (JShell) Fix CRC cards and add any additional CRC cards required
+
+
+
+These tasks are assigned as follows:
+
+User: Girvan
+Tasks: a-1, a-5
+
+User: Conroy
+Tasks: a-1 a-5
+
+User: Manish
+Tasks: a-4
+
+User: Lim Zhi Hua
+Tasks: a-3
+
+

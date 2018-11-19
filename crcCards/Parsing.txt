@@ -1,0 +1,14 @@
+Class name: Parsing
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Class used to parse the string command given to the Java program
+  as an argument
+* Creates/Invokes the corresponding command (first commandline argument)
+	then applies the command to subsequent options and arguments
+
+Collaborators:
+* Commands
+* Error
+* JShell

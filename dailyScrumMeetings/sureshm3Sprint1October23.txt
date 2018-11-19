@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Finished the manual for the rest of the commands 
+
+What do I plan to work in the next three days?
+	- Finish the pushd, popd command classes
+	- Get information about the demo.
+
+Am I Blocked on anything?
+	- N/a

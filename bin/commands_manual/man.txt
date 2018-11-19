@@ -1,0 +1,11 @@
+NAME:
+	man
+
+SYNTAX:
+	man CMD
+
+DESCRIPTION:
+	Display documentation CMD to the terminal
+
+EXAMPLE:
+	man echo - displays documentation for echo

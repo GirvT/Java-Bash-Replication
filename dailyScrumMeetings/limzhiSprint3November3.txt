@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+
+>	Fixed a few problems with the display
+>	Added in the option for hitory to select the number of recent commands
+
+b) What do I plan to work in the next three days?
+
+>	Put proper error handling in all the classes i am in charge of
+
+c) Am I blocked on anything?  
+
+>	No

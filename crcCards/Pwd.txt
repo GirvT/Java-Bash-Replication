@@ -1,0 +1,10 @@
+Class name: Pwd
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Passes the path of our current directory on to the display
+
+Collaborators:
+* Display
+* Directory

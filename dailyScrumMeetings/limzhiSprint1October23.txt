@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+
+
+>	Changed the implementation, putting the seperation of input Data into a seperate class called Parsing
+>	Changed the way it selected the command from a switch statement to a Commands.run method using a hashmap as a key and the commandObject as the value
+
+
+b) What do I plan to work in the next three days?
+
+>	Work on the implementation of the actual command objects.
+
+c) Am I blocked on anything?  
+
+>	Even though i have an empty Directory class so i could test my methods, I need the proper directory class to be made before i can really start working on the commands

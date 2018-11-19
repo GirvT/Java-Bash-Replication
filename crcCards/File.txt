@@ -1,0 +1,10 @@
+Class name: Files
+Parent class: INode
+Subclasses: None
+
+Responsibilities:
+* Contains the methods used to operate on files (e.g renaming, deleting, properties,viewing contents etc)
+
+Collaborators:
+* Mv
+* Cat

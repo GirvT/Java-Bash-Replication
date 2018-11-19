@@ -1,0 +1,13 @@
+Class name: Mv
+Parent class:Commands
+Subclasses: 
+* Cp
+
+Responsibilities:
+* Contains the methods required to move files to a new location
+* Contains the methods required to recieve the data on the OLDFILE and NEWFILE
+
+Collaborators:
+* Error
+* File
+* Directory

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Fixed echo, added error checking to echo
+
+What do I plan to work in the next three days?
+	- Update CRCard design files w/ add test cases
+
+Am I Blocked on anything?
+	- N/A

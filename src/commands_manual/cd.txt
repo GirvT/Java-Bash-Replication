@@ -1,0 +1,16 @@
+NAME:
+	cd
+
+SYNTAX:
+	cd DIR
+
+DESCRIPTION:
+	Changes the current working directory to DIR where DIR is a sub directory to current directory or a full path.
+	DIR can be replaced with the following symbols
+	.. - represents the parent directory.
+	.  - represents the current directory.
+	/  - represents the root directory
+
+EXAMPLES:
+	cd Desktop - changes the current directory to Desktop
+	cd /Documents/CS/ - changes the current working directory to CS directory located in the Documents directory

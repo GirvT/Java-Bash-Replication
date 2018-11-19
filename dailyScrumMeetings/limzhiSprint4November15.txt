@@ -1,0 +1,11 @@
+a) What did I work on in the last three days? 
+
+>	Updated the Parsing class
+
+b) What do I plan to work in the next three days?
+
+>	Testing of parsing class and editing of other classes to accept the new parsing output
+
+c) Am I blocked on anything?  
+
+>	No

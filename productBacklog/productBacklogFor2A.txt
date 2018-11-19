@@ -1,0 +1,25 @@
+_________________________________________________________________________________________________________________________________________________________________________________________
+|User Stories 																				|EstimatedTime	|
+|_______________________________________________________________________________________________________________________________________________________________________|_______________|
+|> As a user, I should be able to exit the program 												(exit)			|(1hr)		|
+|> As a user, I should be able to create a new directory with a specified name relative to the current directory 				(mkdir)			|(1hr)		|
+|> As a user, I should be able to create a new directory with a specified name with a full path						(mkdir)			|(30min)	|
+|> As a user, I should be able to change their current directory to a new directory relative to the current directory				(cd)			|(1hr)		|
+|> As a user, I should be able to change their current directory to a new directory using a full path						(cd)			|(1hr)		|
+|> As a user, I should be able to print the contents of their current directory									(ls)			|(1hr)		|
+|> As a user, I should be able to print the contents of the specified file									(ls)			|(25min)	|
+|> As a user, I should be able to print the contents of the specified directory									(ls)			|(25min)	|
+|> As a user, I should be able to print an suitable error message if the specified file / directory doesnt't Exist				(ls)			|(25min)	|
+|> As a user, I should be able to print the PATH to the current working directory								(pwd)			|(1hr)		|
+|> As a user, I should be able to store working directories in the form of a stack								(directory stack)	|(3hr)		|
+|> As a user, I should be able to retrieve working directories from the stack									(directory stack)	|(1hr)		|
+|> As a user, I should be able to set the specified directory as new working directory by pushing the old working directory into the stack	(pushd) 		|(4hr)		|
+|> As a user, I should be able to retrieve an old working directory from the stack and set that as the new working directory 			(popd)			|(4hr)		|
+|> As a user, I should be able to view a number of commands used in the terminal, relative to most recent use 					(history)		|(1hr)		|
+|> As a user, I should be able to view a file printout in the terminal 										(cat)			|(1hr)		|
+|> As a user, I should be able to input a message and get the same message back									(echo)			|(3hr)		|
+|> As a user, I should be able to replace text in a text file											(echo)			|(1hr)		|
+|> As a user, I should be able to append text to a text file											(echo)			|(2hr)		|
+|> As a user, I should be able to get help for any default command 										(man)			|(5hr)		|
+|> As a user, I should be able to use any length of whitespace to represent space between commands/arguments and any number of spaces before the first command		|(2hr)		|
+|_______________________________________________________________________________________________________________________________________________________________________|_______________|

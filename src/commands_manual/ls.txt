@@ -1,0 +1,16 @@
+NAME:
+	ls
+
+SYNTAX:
+	ls [PATH]
+
+DESCRIPTION:
+	List information about the FILEs (the current directory by default).
+	Otherwise, for each path p, the order 
+	> if p leads to a file, prints p
+ 	> if p leads to a directory, prints p then the contents of that directory
+	> if p does not exist print a suitable message.
+
+EXMAPLE:
+	ls - returns all the files in the current directory
+	ls /users/Desktop - returns all the files in the desktop

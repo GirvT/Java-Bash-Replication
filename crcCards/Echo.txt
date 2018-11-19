@@ -1,0 +1,12 @@
+Class name: Echo
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* outputs text string(s) to the screen
+* appends the text string(s) to a file
+* overwrites/creates files to place text string(s) inside files
+
+Collaborators:
+* Display
+* File

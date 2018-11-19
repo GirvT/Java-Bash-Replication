@@ -1,0 +1,9 @@
+NAME:
+	popd
+
+SYNTAX:
+	popd
+
+DESCRIPTION:
+	Removes the top most directory stack and makes it the current working directory.
+	The directory if consistent with the behaviour if a LIFO stack.

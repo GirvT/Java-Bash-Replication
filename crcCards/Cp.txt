@@ -1,0 +1,11 @@
+Class name: Cp
+Parent class: Mv
+Subclasses: None
+
+Responsibilities:
+* Uses the methods from Mv to move files around, except that it deletes them after moving
+
+Collaborators:
+* Files
+* Directory
+* Error

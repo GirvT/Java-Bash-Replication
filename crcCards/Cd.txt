@@ -1,0 +1,11 @@
+Class name: Cd
+Parent class: Commands
+Subclasses: Pushd, Popd
+
+Responsibilities:
+* Change the current Directory to another directory
+
+Collaborators:
+* Error
+* Directory
+* Parsing

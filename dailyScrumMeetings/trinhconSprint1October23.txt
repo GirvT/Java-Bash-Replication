@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- I created an Inode class and corresponding methods
+	- Extended Inode class with Directory class
+
+What do I plan to work in the next three days?
+    - Build class for Mkdir
+    - Build class for cd
+
+Am I blocked on anything?
+    - nope

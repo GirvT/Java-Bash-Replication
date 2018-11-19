@@ -1,0 +1,15 @@
+Class name: JShell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Drives all other classes and functions
+* Runs Parsing and retrieves output from Display
+* Invokes the appropriate class based on parsing
+* Changes the file/directory system as per command
+
+Collaborators:
+* Parsing
+* Display
+* Directory
+* Error

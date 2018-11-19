@@ -1,0 +1,12 @@
+Class name: Inode
+Parent class: None
+Subclasses: File, Directory
+
+Responsibilities:
+* Simulates filesystem node behaviours
+* contains an ID system
+* allows commands to traverse the filesystem tree
+
+Collaborators:
+* Error
+* JShell

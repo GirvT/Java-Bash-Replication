@@ -1,0 +1,12 @@
+NAME:
+	mkdir
+
+SYNTAX:
+	mkdir [PATH]DIR
+
+DESCRIPTION:
+	creates a directory with name DIR which may be in the current directory or at the given PATH.
+
+EXAMPLE:
+	mkdir cscb07 - creates a directory named "cscb07" in the current directory
+	mkdir Desktop/cs - creates a directory named "cs" in Desktop.

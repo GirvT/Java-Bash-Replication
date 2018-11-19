@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+
+>	Edited error handling on Cat and Parsing
+>	Changed Parsing to not split the whitespaces which were in quotes
+>	Created testing classes for History and Cat
+>	Added the honor code for the classes
+
+b) What do I plan to work in the next three days?
+
+>	Nothing yet	
+
+c) Am I blocked on anything?  
+
+>	No	

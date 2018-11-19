@@ -1,0 +1,10 @@
+Class name: Mkdir
+Parent class: Commands
+Subclasses: None
+
+Responsibilities:
+* Create a directory with given name
+
+Collaborators:
+* Directory
+* Error

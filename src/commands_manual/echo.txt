@@ -1,0 +1,14 @@
+NAME:
+	echo
+
+SYNTAX:
+	echo STRING [> OUTIFLE]
+
+DESCRIPTION:
+	Display the STRING to the standard output if OUTFILE is not present otherwise display the STRING in the OUTFILE.
+	STRING is a string of characters surrounded by double quotation marks.
+	This creates a new file if OUTFILE does not exist and erases the old contents if OUTFILE already exists.
+
+EXAMPLE:
+	echo "echo" - displays the string "echo" in the shell
+	echo "computer science" > cs.txt - displays the string "computer science" in the file cs.txt

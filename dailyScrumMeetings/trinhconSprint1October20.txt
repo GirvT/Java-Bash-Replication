@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- I brought in and update CRC cards
+	- Created new Project CRC cards for new requirements
+	- Based on A1 feedback editted CRC cards
+
+What do I plan to work in the next three days?
+    - Begin classes for File and Directory
+    - Maybe start with PATH pathing
+
+Am I blocked on anything?
+    - Nothing so far

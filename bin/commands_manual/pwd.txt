@@ -1,0 +1,8 @@
+NAME:
+	pwd
+
+SYNTAX:
+	pwd
+
+DESCRIPTION:
+	Displays the path to the current working directory

@@ -1,0 +1,13 @@
+Class name: Error
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Handles all errors associated with the JavaShell's programming
+* throws an exception that it also catches
+
+Collaborators:
+* Parsing
+* File
+* Directory
+* Display

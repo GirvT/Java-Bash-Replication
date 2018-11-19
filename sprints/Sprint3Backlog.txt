@@ -1,0 +1,67 @@
+//Sprint 3 Backlog.  
+October 31st to 7th of November
+
+
+User Stories from Product Backlog that we will address in this sprint:
+
+*All User Stories addressed, only unit testing and error catching remains*
+
+
+
+Specific tasks to be accomplished:
+a	Create Error Classes:
+a-1.  Errors for Command: "cd"
+a-2.  Errors for Command: "ls"
+a-3.  Errors for Command: "mkdir"
+a-4.  Errors for Command: "pwd"
+a-5.  Errors for Command: "exit"
+a-6.  Errors for Command: "echo"
+a-7.  Errors for Command: "echo >"
+a-8.  Errors for Command: "echo >>"
+a-9.  Errors for Command: "cat"
+a-10. Errors for Command: "history"
+a-11. Errors for Command: "popd"
+a-12. Errors for Command: "pushd"
+a-13. Errors for Command: "man"
+a-14. Errors for FileSystem handling
+a-15. Errors for Parsing handling
+
+b   Create Unit Tests:
+b-1.  Unit Tests for Command: "cd"
+b-2.  Unit Tests for Command: "ls"
+b-3.  Unit Tests for Command: "mkdir"
+b-4.  Unit Tests for Command: "pwd"
+b-5.  Unit Tests for Command: "exit"
+b-6.  Unit Tests for Command: "echo"
+b-7.  Unit Tests for Command: "echo >"
+b-8.  Unit Tests for Command: "echo >>"
+b-9.  Unit Tests for Command: "cat"
+b-10.  Unit Tests for Command: "history"
+b-11. Unit Tests for Command: "popd"
+b-12. Unit Tests for Command: "pushd"
+b-13. Unit Tests for Command: "man"
+b-14. Unit Tests for FileSystem handling
+b-15. Unit Tests for Parsing handling
+b-16. Unit Tests for Display handling
+b-17. JShell Testing (Errors included)
+
+c	Commenting/Documentation
+c-1. In all classes/methods ensure that @param and @return...etc are present
+c-2. Ensure that everything is commented (Javadoc)
+c-3. Ensure that no errors or warnings occur (if so warn team)
+
+
+These tasks are assigned as follows:
+
+User: Girvan
+Tasks: a-5, a-6, a-7, a-8, a-9, b-5, b-6, b-7, b-8, b-9, b-17
+
+User: Conroy
+Tasks: a-1, a-2, a-3, a-4, b-1, b-2, b-3, b-4, b-14. c-2
+
+User: Manish
+Tasks: a-11, a-12, a-13, b-11, b-12, b-13, b-17
+
+User: Zhi Hua
+Tasks: a-10, b-10, b-15, b-16, c-1, c-3
+

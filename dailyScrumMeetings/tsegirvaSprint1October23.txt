@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Worked on the the file class
+
+What do I plan to work in the next three days?
+    - Complete the file and upload file class
+	- Upload CRCard deigns files
+	- Work on echo class
+
+Am I Blocked on anything?
+    - N/A

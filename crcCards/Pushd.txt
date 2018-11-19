@@ -1,0 +1,11 @@
+Class name: Pushd
+Parent class: Cd
+Subclasses: None
+
+Responsibilities:
+* Places current directory onto a stack
+* Change directory to a new
+
+Collaborators:
+* Directory
+* Error

@@ -1,0 +1,14 @@
+a) What did I work on in the last three days? 
+
+>	Created the pwd, history, and cat classes
+>	Edited the JShell to accept them as commands
+
+
+b) What do I plan to work in the next three days?
+
+>	Testing my cat class
+>	Ensuring that all other commands interact properly with the  JShell
+
+c) Am I blocked on anything?  
+
+>	Need some way to create files so i can test cat

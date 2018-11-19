@@ -1,0 +1,11 @@
+Class name: Ls
+Parent class:Commands
+Subclasses: None
+
+Responsibilities:
+* Passes a list of files and directories in the current directory and passes it to the display
+
+Collaborators:
+* Display
+* Directory
+* Error

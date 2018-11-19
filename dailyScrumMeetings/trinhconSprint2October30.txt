@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- Extended FileSystem class further
+	- Built base class for mkdir
+	- Built base class for Cd
+	- Built base class for ls
+
+What do I plan to work in the next three days?
+    - Implement Singleton Design Principles
+    - Create Errors for the FileSystem Classes and Commands
+    - Implement Abstract Command Class
+
+
+Am I blocked on anything?
+    - nope

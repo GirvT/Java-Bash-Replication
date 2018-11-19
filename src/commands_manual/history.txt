@@ -1,0 +1,13 @@
+NAME:
+	history
+
+SYNTAX:
+	history [NUMBER]
+
+DESCRIPTION:
+	This command will display the recent commands used (one command per line) to the terminal.
+	The NUMBER tells how many commands to be displayed (the default number of commands displayed is 5).
+
+EXAMPLES:
+	history - displays 5 recently used commands to the terminal
+	history 3 - displays 3 recently used commnads to the terminal

@@ -1,0 +1,8 @@
+NAME:
+	exit
+
+SYNTAX:
+	exit
+
+DESCRIPTION:
+	exits out of the current program

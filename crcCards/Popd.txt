@@ -1,0 +1,11 @@
+Class name: Popd
+Parent class: Cd
+Subclasses: None
+
+Responsibilities:
+* Removes top directory from the stack
+* goes towards that target directory
+
+Collaborators:
+* Directory
+* Error

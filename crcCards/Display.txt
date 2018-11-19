@@ -1,0 +1,12 @@
+Class name: Display
+Parent class:None
+Subclasses: None
+
+Responsibilities:
+* Recieves input from other classes and displays them on the terminal
+
+Collaborators:
+* Ls
+* Pwd
+* Cat
+* Error

@@ -1,0 +1,12 @@
+Class name: Directory
+Parent class: INode
+Subclasses: None
+
+Responsibilities:
+* Is part of the PATH tree and acts as a link to a set of files/directories
+* Serves as a container for files and directories
+
+Collaborators:
+* Mkdir
+* Cd
+* Ls

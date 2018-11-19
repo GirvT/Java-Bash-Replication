@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Digitize our CRCard design
+	- Added missing CRCards (error class, pushd, popd, history, file, directory)
+
+What do I plan to work in the next three days?
+    - Complete the file/directory class
+	- Upload CRCard deigns files
+
+Am I Blocked on anything?
+    - N/A

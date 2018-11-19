@@ -1,0 +1,16 @@
+a) What did I work on in the last three days? 
+
+>	Edited the main driver to have it continuously ask for input until an exit command is given.
+>	Had it go to an different portion of the loop based on what command was given. 
+>	Made it print out a line instead of performing the command (since the commands aren't implemented yet)
+>	Seperated the command into different portions of an ArrayList based on whitespaces
+
+
+b) What do I plan to work in the next three days?
+
+>	I intend to create more classes after i get a better understanding of how the others are implementing their part
+>	Replace the commands with the actual ones once they are done
+
+c) Am I blocked on anything?  
+
+>	I kinda do want to know the name of the object that im gonna create so i can replace the print statements with the actual calling of the command
